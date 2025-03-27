@@ -1,0 +1,10 @@
+{
+  "frequency": 3500,
+  "bandwidth": "100MHz",
+  "curvature_constraint": 0.15,
+  "power_adjustment": {
+    "min": 10,
+    "max": 30,
+    "step": 0.5
+  }
+}
